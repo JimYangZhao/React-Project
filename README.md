@@ -1,9 +1,9 @@
 # React-Project
-<h2 align='center'> Hi over there, I'm <a href="https://punitkmryh.netlify.app">Punit!</a>👋 🧑🏻‍💻</h2>
+<h2 align='center'> Hi over there, I'm <a href="https://heardgi.com">Yang Zhao (Jim)!</a>👋 🧑🏻‍💻</h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I'm a Fresher pursuing Masters in CSE from UVCE Bangalore, IND. Passionate in developing MERN Stack sites. I am looking forward to work, learn on both frontend and backend. A Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma and 💎 sketch.
+  <samp> I am recent Computer Science graduate with a demonstrated history of working in technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies and AWS. Strong advocate for Test Driven Development (TDD) and Continuous Integration & Delivery (CI&CD) implementation. Looking to join an agile, collaborative team as software developer.
   </samp>
   <br>
   
@@ -13,16 +13,11 @@
 
 <h3  align='center'>📬 Find me around the web 🌎 </h3>
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=punitkmryh.punitkmryh"></a>
-</p>
-
 
 <p align='center'>
-  <a href="https://punitkmryh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/punityh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:punitkmryh95@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/yang-zhao-11a75015b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yangzhao264@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
