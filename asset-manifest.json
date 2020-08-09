@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Project/Hangman-React-Project/public/static/css/main.78833b75.chunk.css",
-    "main.js": "/React-Project/Hangman-React-Project/public/static/js/main.89d7fa72.chunk.js",
-    "main.js.map": "/React-Project/Hangman-React-Project/public/static/js/main.89d7fa72.chunk.js.map",
-    "runtime-main.js": "/React-Project/Hangman-React-Project/public/static/js/runtime-main.ea82857d.js",
-    "runtime-main.js.map": "/React-Project/Hangman-React-Project/public/static/js/runtime-main.ea82857d.js.map",
-    "static/js/2.f7a5d80e.chunk.js": "/React-Project/Hangman-React-Project/public/static/js/2.f7a5d80e.chunk.js",
-    "static/js/2.f7a5d80e.chunk.js.map": "/React-Project/Hangman-React-Project/public/static/js/2.f7a5d80e.chunk.js.map",
-    "index.html": "/React-Project/Hangman-React-Project/public/index.html",
-    "precache-manifest.ab77397ebdcbe4f7b3bf25df8c575c61.js": "/React-Project/Hangman-React-Project/public/precache-manifest.ab77397ebdcbe4f7b3bf25df8c575c61.js",
-    "service-worker.js": "/React-Project/Hangman-React-Project/public/service-worker.js",
-    "static/css/main.78833b75.chunk.css.map": "/React-Project/Hangman-React-Project/public/static/css/main.78833b75.chunk.css.map",
-    "static/js/2.f7a5d80e.chunk.js.LICENSE.txt": "/React-Project/Hangman-React-Project/public/static/js/2.f7a5d80e.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.78833b75.chunk.css",
+    "main.js": "./static/js/main.89d7fa72.chunk.js",
+    "main.js.map": "./static/js/main.89d7fa72.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b4f3ddbb.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b4f3ddbb.js.map",
+    "static/js/2.f7a5d80e.chunk.js": "./static/js/2.f7a5d80e.chunk.js",
+    "static/js/2.f7a5d80e.chunk.js.map": "./static/js/2.f7a5d80e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.666cb0154902445b1e313e5d97ad5104.js": "./precache-manifest.666cb0154902445b1e313e5d97ad5104.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.78833b75.chunk.css.map": "./static/css/main.78833b75.chunk.css.map",
+    "static/js/2.f7a5d80e.chunk.js.LICENSE.txt": "./static/js/2.f7a5d80e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea82857d.js",
+    "static/js/runtime-main.b4f3ddbb.js",
     "static/js/2.f7a5d80e.chunk.js",
     "static/css/main.78833b75.chunk.css",
     "static/js/main.89d7fa72.chunk.js"
