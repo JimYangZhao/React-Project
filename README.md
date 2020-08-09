@@ -1,5 +1,5 @@
 # React-Project
-<h2 align='center'> Hi over there, I'm <a href="https://heardgi.com">Yang Zhao (Jim)!</a>👋 🧑🏻‍💻</h2>
+<h2 align='center'> Hi over there, I'm <a href="https://www.linkedin.com/in/yang-zhao-11a75015b/">Yang Zhao (Jim)!</a>👋 🧑🏻‍💻</h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
